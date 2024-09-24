@@ -32,6 +32,6 @@ public class Main
         int birthMonth = 4;
         String fullName = "Alyk Lippincott";
 
-
+        System.out.println("The cost of my lunch is: " + myLunchCost);
     }
 }
